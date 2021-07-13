@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+
+
+.lbl1{
+    color: white;
+    margin: auto;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.informacion{
+    margin: 100px;
+    background: linear-gradient(to right, #000046, #1cb5e0); 
+    padding: 50px;
+    width: 900px;
+    font-size: 20px;
+    border: 10px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 15px grey;
+    text-align: center;
+    display: block;
+}
+
+.lbl2{
+    color: white;
+    margin: auto;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
